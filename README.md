@@ -5,7 +5,7 @@
 # 💀 EXODILE XD
 ## *Built Different. Built Deadly.*
 
-> The Most Powerful WhatsApp Bot — Crafted by **Dev Prime Killer Nova Kent**
+> The Most Powerful WhatsApp Bot — Crafted by **AMIR**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Handsomekent-droid&color=red&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Handsomekent-droid)
 [![Stars](https://img.shields.io/github/stars/Handsomekent-droid/EXODILE-XD?style=flat-square&color=yellow&label=STARS)](https://github.com/Handsomekent-droid/EXODILE-XD/stargazers)
@@ -32,10 +32,9 @@
 
 | | |
 |---|---|
-| 👤 **Name** | Dev Prime Killer Nova Kent |
-| 📱 **WhatsApp** | [+254784747151](https://wa.me/254784747151) |
-| 📢 **WA Channel** | [EXODILE XD Channel](https://whatsapp.com/channel/0029VbCMoQ105MUWi87guK2B) |
-| ✈️ **Telegram** | [@exodileepicxd](https://t.me/exodileepicxd) |
+| 👤 **Name** | AMIRt |
+| 📱 **WhatsApp** | [+263786450050](https://wa.me/263786450050) |
+| 📢 **WA Channel** | [EXODILE XD Channel](https://whatsapp.com/channel/0029VbCMoQ105MUWi87guK2B) | |
 | 💻 **GitHub** | [@Handsomekent-droid](https://github.com/Handsomekent-droid) |
 
 </div>
